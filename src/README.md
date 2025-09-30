@@ -4,7 +4,7 @@ A simple computer vision project that detects surfers in a lineup using a YOLO m
 
 The model was trained in Google Colab using 200 labeled images (100 by me, 100 prelabeled and checked by me using make_prelabels.py) of Malibu.
 
-https://github.com/your-username/surf-lineup-detector/assets/demo.gif  
+https://github.com/giulioelmi/surf-lineup-detector/assets/demo.gif  
 
 ---
 
